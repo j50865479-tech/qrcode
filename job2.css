@@ -1,0 +1,16 @@
+body{
+    background-color:#F4D04E;
+    height: 100vh;
+}
+.numone{
+    background-color: white;
+    margin:auto ;
+    height:fit-content ; 
+    width:fit-content;
+    border-radius: 20px;
+    padding: 24px 24px 40px 24px;
+}
+.blog{
+   height: 200px; 
+   width: 336px;
+}
